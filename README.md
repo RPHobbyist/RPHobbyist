@@ -10,6 +10,6 @@ I am an **Industrial Product Developer & Owner** who bridges the gap between eng
 - **Engineering Stack:** Industrial Hardware, DFM, IoT, and Local AI Architecture.
 
 ### 🏗 Featured Engineering Projects
-[![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPHobbyist&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Ravi's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=RPHobbyist&theme=radical)
 
-*Check out my latest insights on hardware engineering on my [Blog](https://www.rphobbyist.com/blogs).*
+*Check out my latest insights on hardware engineering on my [Blog](https://www.rphobbyist.com/blogs)*
