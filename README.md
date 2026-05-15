@@ -6,7 +6,7 @@ I am an **Industrial Product Developer & Owner** who bridges the gap between eng
 
 ### 🛠 My Core Focus
 - **Product Lifecycle:** Prototyping → Market-Fit → Mass Manufacturing.
-- **Tools I've Built:** [PolymagicPrice](https://www.rphobbyist.com), [ProductPath](https://www.rphobbyist.com), [Neuron Mapping](https://www.rphobbyist.com).
+- **Tools I've Built:** [PolymagicPrice](https://www.rphobbyist.com) and [Neuron Mapping](https://www.rphobbyist.com).
 - **Engineering Stack:** Industrial Hardware, DFM, IoT, and Local AI Architecture.
 
 *Check out my latest insights on hardware engineering on my [Blog](https://www.rphobbyist.com/blogs)*
